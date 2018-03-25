@@ -1,0 +1,16 @@
+{
+  "name": "googlesheet-to-markdown",
+  "version": "0.0.1",
+  "description": "converts a google sheet to a markdown table using googlesheet-to-json",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad Oyler",
+  "license": "MIT",
+  "dependencies": {
+    "googlesheet-to-json": "0.0.1",
+    "json-to-markdown": "1.0.3"
+  }
+}
