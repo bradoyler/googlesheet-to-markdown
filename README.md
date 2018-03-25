@@ -20,6 +20,7 @@ see [googlesheet-to-json](https://github.com/bradoyler/googlesheet-to-json) for 
 
 ### Example output:
 > Spreadsheet of charting libraries
+
 |name|d3|v4|framework|repo|homepage|demos|last updated|
 |----|----|----|----|----|----|----|----|
 |Britecharts|TRUE|TRUE|vanilla|https://github.com/eventbrite/britecharts/|http://eventbrite.github.io/britecharts|http://eventbrite.github.io/britecharts/tutorial-bar.html|10/4/2017|
